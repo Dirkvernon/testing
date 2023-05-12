@@ -1,0 +1,141 @@
+.nav {
+    padding-left: 14.5%;
+    padding-top: 10px;
+}
+
+.icons {
+    padding-right: 8px;
+}
+
+.demarcate {
+    color: white;
+    margin: 0 10px 0 10px;
+    font-size: large;
+}
+
+.tel li {
+    display: inline;
+    color: white;
+    font-size: large;
+}
+
+.veritas_logo {
+    width: 190px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.welcome_surounding {
+    padding-top: 50px;
+}
+
+.welcome {
+    color: gray;
+    font-size: x-large;
+}
+
+.big_text {
+    color: dodgerblue;
+    font-size: xx-large;
+}
+
+.background_image {
+    background-image: url("C:/Users/HP/Downloads/YEAR 2 2ND SEMESTER SEN/SEN 206/files (2)/files/p6.png");
+}
+
+.form {
+    border: 2px gainsboro solid;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+
+.form_content {
+    padding: 40px 80px 40px 80px;
+    color: grey;
+}
+
+.three_people_image {
+    margin-top: 6%;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.link:hover {
+    color: white;
+    text-decoration: none;
+    font-weight: 450;
+    border: 2px solid blue;
+    box-shadow: 0 0.5em 0.5em -0.3em blue;
+    cursor: pointer;
+    transition: 0s;
+    border-radius: 5px;
+    background-color: blue;
+}
+
+.link:active {
+    border: 3px solid green;
+    background-color: green;
+    box-shadow: 0 0.5rem 0.5rem -0.3rem greenyellow;
+}
+
+.footer {
+    color: gray;
+    background-color: black;
+    padding-top: 100px;
+}
+
+.social_icon li {
+    display: inline;
+    border: 15px navy solid;
+    color: white;
+    background-color: navy;
+    border-radius: 5px;
+    margin-right: 0.5rem;
+}
+
+.envanto {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    color: white;
+}
+
+hr {
+    color: white;
+    height: 5px;
+}
+
+.second_footer_div {
+    padding-left: 130px;
+}
+
+.style_differently {
+    color: darkgrey;
+}
+
+.about_us li {
+    color: navy;
+    list-style: ">  ";
+    padding: 7px;
+    font-size: larger;
+}
+
+.about_us li span {
+    color: darkgrey;
+    font-size: medium;
+}
+
+.copyright {
+    text-align: center;
+    color: grey;
+    background-color: black;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-size: larger;
+}
